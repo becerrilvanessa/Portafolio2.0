@@ -1,0 +1,273 @@
+.nav-item {
+    font-family:monospace;
+    font-weight: bold;
+    color: bisque;
+  
+}
+
+.navbar-brand{
+    font-family:monospace;
+    font-weight: bold;
+   
+}
+
+.col-12{
+    background-color:#152039;
+    height:50px;
+}
+
+.col-12 p{
+ 
+    text-align: center;
+  font-family:'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: 30px;
+    color: #e49797;
+  
+}
+
+.col-sm-4{
+    
+    width: 100%;
+
+    background-color:#152039;
+ 
+} 
+
+.col-sm-8{
+    background-color:#152039;
+    width: 100%;
+   
+  
+}
+
+.conoce{
+  font-family: 'Courier New', Courier, monospace;
+  color: #e49797;
+  margin-top: 50px;
+
+   
+  
+}
+.img-fluid{max-width: 100%;
+} 
+
+
+.alert-danger {
+   height: 630px;
+margin-top: 100px;
+
+}
+
+.pa1{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin-top: 80px;
+    color: #e49797;
+
+}
+
+.alert-heading {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+
+    color: #e49797;
+   outline-style: #152039;
+
+}
+
+.btn{
+    margin-top: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    color: #152039;
+    font-weight: bolder;
+}/* //aqui termina seccion1 */
+
+
+.col-sm-12{
+    background-color: #152039;
+ 
+}
+
+
+
+#tresfilas{
+    background-color: #152039;
+
+}
+
+#fila1{
+    background-color: #152039;
+    height: 260px;
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+    color: #e49797;
+    margin-top:40px;
+    
+}
+#fila2{
+    background-color: #152039;
+    height: 260px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #e49797;
+    margin-top: 40px;
+
+}
+
+#fila3{
+    background-color: #152039;
+    height: 260px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #e49797;
+    margin-top: 40px;
+} 
+
+.card-header{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+  /* aqui termina card mision vision */
+
+#colt{
+    height: 100px;
+}
+/* 
+#colt1{
+    background-color: #242d41;
+} */
+.col-sm-6 h3{
+ 
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    margin-top: 20px;
+    color:#bcd3d5 ;
+}
+
+.col-sm-6 h2{
+ 
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    margin-top: 20px;
+    color:#e49797;
+    font-size: 20px;
+}
+
+.col-sm-6 p{
+ 
+    font-family:Arial, Helvetica, sans-serif;
+    font-style: oblique;
+    margin-top: 10px;
+    color:#e49797;
+    font-size: 16px;
+}
+
+
+
+
+
+.col-sm-6 h5{
+ 
+    font-family:Arial, Helvetica, sans-serif;
+    
+    margin-top: 10px;
+    color:#bcd3d5 ;
+    font-size: 16px;
+}
+
+/* trabajos */
+
+
+#cardb1{
+    font-family: 'Courier New', Courier, monospace;
+    color: #e49797;
+    font-weight: bold;
+
+}
+
+#cardt1{
+    font-family:Arial, Helvetica, sans-serif;
+    color: #152039;
+} 
+#cardb2{
+    font-family: 'Courier New', Courier, monospace;
+    color: #e49797;
+    font-weight: bold;
+
+}
+
+#cardt2{
+    font-family:Arial, Helvetica, sans-serif;
+    color: #152039;
+} 
+#cardb3{
+    font-family: 'Courier New', Courier, monospace;
+    color: #e49797;
+    font-weight: bold;
+
+}
+
+#cardt3{
+    font-family:Arial, Helvetica, sans-serif;
+    color: #152039;
+} 
+
+
+/* formacion */
+
+#form{
+    height: 100px;
+}
+
+.fa {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    color: aliceblue;
+}
+.sub{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    color:#e49797;
+}
+
+.fe{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    color: aliceblue;
+}
+
+.parra1{
+    font-family:Arial, Helvetica, sans-serif;
+    color:#bcd3d5;
+}
+
+.miform{
+    font-family: 'Courier New', Courier, monospace;
+    color: #e49797;
+    margin-top: 20px;
+  
+     
+    
+  }
+
+
+  .lis1{
+    font-family:Arial, Helvetica, sans-serif;
+    color:#bcd3d5;
+}
+
+/* form */
+
+.formcap{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+    color: #e49797;
+}
+
+.mb-0{
+    font-family: 'Courier New', Courier, monospace;
+    color: #e49797;
+    margin-top: 20px;
+
+}
